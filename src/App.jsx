@@ -1,6 +1,6 @@
 import Card from './components/Card';
 import Footer from './components/Footer';
-import { posts } from '../data/posts';
+import { posts } from './data/posts';
 
 function App() {
   const published = posts.filter((post) => post.published === true)
