@@ -6,7 +6,7 @@ export const posts = [
     {
         id: 1,
         title: 'Titolo del Post',
-        image: '' /* compila questo campo */,
+        image: '../img/post2.jpg' /* compila questo campo */,
         content:
             'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.',
         tags: ['html', 'css'],
@@ -15,7 +15,7 @@ export const posts = [
     {
         id: 2,
         title: 'Titolo del Post',
-        image: '' /* compila questo campo */,
+        image: '../img/post3.jpg' /* compila questo campo */,
         content:
             'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.',
         tags: ['js', 'css'],
@@ -24,7 +24,7 @@ export const posts = [
     {
         id: 3,
         title: 'Titolo del Post',
-        image: '' /* compila questo campo */,
+        image: undefined /* compila questo campo */,
         content:
             'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.',
         tags: ['js', 'php'],
@@ -33,7 +33,7 @@ export const posts = [
     {
         id: 4,
         title: 'Titolo del Post',
-        image: '' /* compila questo campo */,
+        image: '../img/post4.jpg' /* compila questo campo */,
         content:
             'Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit animi unde quasi enim non esse ratione voluptas voluptate, officiis veritatis magni blanditiis possimus nobis cum id inventore corporis deserunt hic.',
         tags: ['html'],
